@@ -8,6 +8,6 @@ The second version was written much latter. That version uses vector class. It i
 
 There are also two scripts. The first one is the analysis code (displays the folded protein and the energy of the system). The second one creates the stating configurations. The starting configurations may be used in the analysis of the chaperone assites folding.
 
-![alt tag](https://github.com/ognjenperisic/protein-folding/blob/figures/chain.png)
+![alt tag](https://github.com/ognjenperisic/Protein-folding/blob/figures/chain.png)
 
-![alt tag](https://github.com/ognjenperisic/protein-folding/blob/figures/energy.png)
+![alt tag](https://github.com/ognjenperisic/Protein-folding/blob/figures/energy.png)
