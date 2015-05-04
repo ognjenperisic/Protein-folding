@@ -1,6 +1,6 @@
-# protein-folding
+# Protein-folding
 
-Two versions of a protein folding code I wrote. It is a simple 2 dimensional Monte Carlo folding simulation on a quadratic grid. 
+Two versions of the protein folding code I wrote. It is a simple 2 dimensional Monte Carlo folding simulation on a quadratic grid. 
 
 The fist version was writter when I was a grad student. 
 
