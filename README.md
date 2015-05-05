@@ -8,7 +8,7 @@ The second version was written much latter. That version uses vector class. It i
 
 There are also two scripts added. The first one is the analysis code (displays the folded protein and the energy of the system). 
 
-The second one creates staring configuration. The starting configuration(s) may be used in the analysis of the chaperone assisted folding.
+The second one creates starting configuration(s). The starting configuration(s) may be used in the analysis of the chaperone assisted folding.
 
 ![alt tag](https://github.com/ognjenperisic/Protein-folding/blob/figures/chain.png)
 
