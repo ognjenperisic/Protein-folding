@@ -4,7 +4,7 @@ Two versions of the protein folding code I wrote. It is a simple 2 dimensional M
 
 The fist version was written when I was a grad student. 
 
-The second version was written much latter. That version uses vector class. It is much slower than the bare bones version.
+The second version was written much latter. That version uses vector class. 
 
 There are also two scripts added. The first one is the analysis code (displays the folded protein and the energy of the system). 
 
